@@ -1,4 +1,4 @@
-# OR_Agent
+# OR_Agent - Operations Research Agent with Text-to-Solution capabilities
 
 Operations Research Agent with Text-to-Solution capabilities. This project uses large language models (LLMs) to solve operations research optimization problems by generating and executing Gurobi code.
 
